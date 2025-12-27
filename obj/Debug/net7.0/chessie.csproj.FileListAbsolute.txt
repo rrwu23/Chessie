@@ -1,0 +1,4 @@
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net7.0/chessie.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net7.0/chessie.AssemblyInfoInputs.cache
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net7.0/chessie.AssemblyInfo.cs
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net7.0/chessie.csproj.CoreCompileInputs.cache

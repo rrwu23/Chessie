@@ -1,0 +1,30 @@
+#include <iostream>
+#include <vector>
+#include <memory>
+
+class Node
+{
+public:
+    std::vector<std::shared_ptr<Node>> childnodes;
+
+    Node(std::vector<Node> nodes)
+    {
+        childnodes = nodes;
+    }
+};
+
+class Tree
+{
+public:
+    Node initial_node;
+
+    Tree(Node IN)
+    {
+        initial_node = IN;
+    }
+};
+
+std::vector<Node> dfbs()
+{
+
+}

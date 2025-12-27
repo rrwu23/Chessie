@@ -1,0 +1,14 @@
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.AssemblyInfoInputs.cache
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.AssemblyInfo.cs
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.csproj.CoreCompileInputs.cache
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/bin/Debug/net10.0/chessie
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/bin/Debug/net10.0/chessie.deps.json
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/bin/Debug/net10.0/chessie.runtimeconfig.json
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/bin/Debug/net10.0/chessie.dll
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/bin/Debug/net10.0/chessie.pdb
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.dll
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/refint/chessie.dll
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.pdb
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/chessie.genruntimeconfig.cache
+/Volumes/MacMini/rongrong/Library/CloudStorage/OneDrive-Personal/2025 Projects/BOTS/chessie/obj/Debug/net10.0/ref/chessie.dll

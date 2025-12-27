@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+
+public class Node
+{
+    public List<Node> ChildNodes { get; set; }
+    public Object content {get; set}
+
+    // Constructor
+    public Node(Object content, List<Node> nodes)
+    {
+        ChildNodes = nodes;
+    }
+
+    // Optional: default constructor for empty child list
+    public Node()
+    {
+        ChildNodes = new List<Node>();
+    }
+}
+
+public class Tree
+{
+    public Node InitialNode { get; set; }
+
+    public Tree(Node root)
+    {
+        InitialNode = root;
+    }
+}
+
+public class Program
+{
+    public static void Main()
+    {
+        var child1 = new Node();
+        var child2 = new Node();
+        var root = new Node(new List<Node> { child1, child2 });
+
+        var myTree = new Tree(root);
+
+        Console.WriteLine($"Tree root has {myTree.InitialNode.ChildNodes.Count} child nodes.");
+    }
+}
